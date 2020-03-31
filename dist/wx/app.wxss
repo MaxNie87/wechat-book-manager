@@ -1,0 +1,15 @@
+
+.btn {
+  color: white;
+  background: #EA5A49;
+  margin-bottom: 20rpx;
+  padding-left: 30rpx;
+  border-radius: 4rpx;
+  font-size: 32rpx;
+  line-height: 80rpx;
+  height: 80rpx;
+  width: 100%;
+}
+.btn:active {
+  background: #FA5A49;
+}

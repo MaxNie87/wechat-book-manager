@@ -1,0 +1,5 @@
+<template name="a91f2568">
+  <view class="_div data-v-41bfe7dd"><progress percent="{{precent}}" color="red" class="_progress data-v-41bfe7dd" />
+    <view class="_p data-v-41bfe7dd">To Be Great: {{year}} past {{days}} days ({{precent}}%)</view>
+  </view>
+</template>

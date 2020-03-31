@@ -1,0 +1,8 @@
+<import src="/components/YearProgress.vue.wxml" /><template name="f4a03466">
+  <view class="_div data-v-25fdf1de container">
+    <view class="_div data-v-25fdf1de userinfo">
+      <image src="{{userinfo.avatarUrl}}" alt class="_img data-v-25fdf1de"></image>
+      <view class="_p data-v-25fdf1de">{{userinfo.nickName}}</view>
+    </view> <template data="{{...$root[$kk+'0'], $root}}" is="a91f2568"></template> <button class="_button data-v-25fdf1de addbook btn" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}">Add Book</button> <button class="_button data-v-25fdf1de btn" open-type="getUserInfo" lang="zh_CN" bindgetuserinfo="handleProxy" data-eventid="{{'1'}}" data-comkey="{{$k}}">Get User Info</button>
+  </view>
+</template>

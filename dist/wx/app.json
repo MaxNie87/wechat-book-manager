@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/books/main",
+    "pages/comments/main",
+    "pages/me/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#EA5149",
+    "list": [
+      {
+        "text": "Books",
+        "pagePath": "pages/books/main"
+      },
+      {
+        "text": "Comments",
+        "pagePath": "pages/comments/main"
+      },
+      {
+        "text": "Me",
+        "pagePath": "pages/me/main"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap60.json"
+}
